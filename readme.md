@@ -1,6 +1,6 @@
 # Automatic Browser Refresh
 
-Template website for automated testing using [Nightwatch](https://github.com/beatfactor/nightwatc).
+Template website for automated testing using [Nightwatch](https://github.com/beatfactor/nightwatch).
 
 ## Index
 
