@@ -1,4 +1,4 @@
-# Automatic Browser Refresh
+# Automated Testing
 
 Template website for automated testing using [Nightwatch](https://github.com/beatfactor/nightwatch).
 
